@@ -1,1 +1,3 @@
-alert('Yahoo');
+(function(){
+  alert('Hello');  
+})
